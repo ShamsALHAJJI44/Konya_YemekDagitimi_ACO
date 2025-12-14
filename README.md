@@ -63,9 +63,7 @@ Streamlit arayüzü sayesinde:
 ## ▶️ Projenin Çalıştırılması
 
 ### 1️⃣ Gerekli kütüphanelerin kurulması
-```bash
 pip install -r requirements.txt
-
 
 ###2️⃣ Streamlit uygulamasının başlatılması
 streamlit run app.py
